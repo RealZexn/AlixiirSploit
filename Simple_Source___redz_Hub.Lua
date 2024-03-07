@@ -1,18 +1,18 @@
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RedzLibV5/main/Source.Lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RealZexn/AlixiirSploit/main/Simple.Lua"))()
 local Window = redzlib:MakeWindow({
-  Title = "redz Hub : Blox Fruits",
-  SubTitle = "by redz9999",
-  SaveFolder = "redz Hub | Blox Fruits.lua"
+  Title = "alixiir Hub : Blox Fruits",
+  SubTitle = "by alixiir",
+  SaveFolder = "alixiir Hub | Blox Fruits.lua"
 })
 
 local AFKOptions = {}
 
 local Discord = Window:MakeTab({"Discord", "Info"})
 Discord:AddDiscordInvite({
-  Name = "redz Hub | Community",
+  Name = "alixiir Hub | Community",
   Description = "Join our discord community to receive information about the next update",
-  Logo = "rbxassetid://15298567397",
-  Invite = "https://discord.gg/7aR7kNVt4g"
+  Logo = "",
+  Invite = ""
 })
 local MainFarm = Window:MakeTab({"Farm", "Home"})
 if Sea3 then
