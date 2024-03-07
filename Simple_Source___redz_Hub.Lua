@@ -1,4 +1,4 @@
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RealZexn/AlixiirSploit/main/source.Lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RealZexn/AlixiirSploit/blob/main/Simple_Source___redz_Hub.Lua"))()
 local Window = redzlib:MakeWindow({
   Title = "alixiir Hub : Blox Fruits",
   SubTitle = "by alixiir",
